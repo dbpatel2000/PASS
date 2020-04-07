@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459665565812",
+    "firebase_url": "https://pass-ed89d.firebaseio.com",
+    "project_id": "pass-ed89d",
+    "storage_bucket": "pass-ed89d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459665565812:android:09aceadf5ce70247708921",
+        "android_client_info": {
+          "package_name": "com.devarsh.pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459665565812-qr53a06bnra2squaftfekg3lm8iese59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devarsh.pass",
+            "certificate_hash": "d87f3aa88b6e32325a6e4982480ce7c307ce125e"
+          }
+        },
+        {
+          "client_id": "459665565812-b11tc2j68b06i1a9j3n6l6tke50qigcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvDAQP3-2MC5k8zUyi_4vaVf0hxbYLR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459665565812-b11tc2j68b06i1a9j3n6l6tke50qigcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
